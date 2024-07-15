@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Balasaiteja
 - 👀 I’m interested in learning new things,recently I have completed learning front-end(HTML,CSS,Bootstrap-CSS frame work), Fun part is I love watching movies and plaing some video games.
 - 🌱 I’m currently learning Java Script,React js,node js.
-- 📫 How to reach me balasaiteja.ganesu@gmail.com
+- 📫 Reach me outbalasaiteja.ganesu@gmail.com
 - ⚡ Fun fact: I just hate reading books.Just learn somthing very quick and do practicaly how are things gonna work and so.
