@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Balasaiteja</h1>
-  <h3>Software Engineer | Data Analyst | Full Stack Developer</h3>
+  <h3>Software Engineer | Data Analyst | Web Developer</h3>
 </div>
 
 <div align="center">
