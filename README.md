@@ -75,10 +75,10 @@
    - Features: Book management, user authentication, automated notifications
    - Tech: Python, Django, PostgreSQL, Bootstrap
 
-2. **[Web Scraping Tool](https://github.com/BalasaitejaG/web-scraping)**
-   - Advanced web scraping solution for data collection
-   - Features: Multi-threaded scraping, data cleaning, export functionality
-   - Tech: Python, BeautifulSoup, Pandas, Selenium
+2. **[PDF AI](https://github.com/BalasaitejaG/Pdf_AI)**
+   - AI-powered PDF assistant that answers questions about uploaded documents using Google's API
+   - Features: Instant answers through natural conversation, document upload
+   - Tech: Python, PowerShell, Shell, Batchfile, JavaScript
 
 ### 📫 Let's Connect
 
