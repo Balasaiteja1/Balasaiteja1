@@ -62,12 +62,6 @@
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 </details>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalasaitejaG&theme=dark" alt="GitHub Streak" />
-</div>
-
 ### 🎯 Featured Projects
 
 1. **[Library Management System](https://github.com/BalasaitejaG/Library_managment_system)**
