@@ -64,7 +64,7 @@
 
 ### 🎯 Featured Projects
 
-1. **[Library Management System](https://github.com/BalasaitejaG/Library_managment_system)**
+1. **[Library Management System](https://github.com/BalasaitejaG/Libo.git)**
    - A comprehensive digital library system built with Django
    - Features: Book management, user authentication, automated notifications
    - Tech: Python, Django, PostgreSQL, Bootstrap
